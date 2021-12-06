@@ -1,2 +1,2 @@
 # PROJECT_SportAPI
-An APIServer for fitness Exercises
+An APIServer for your purposes
